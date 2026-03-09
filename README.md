@@ -6,7 +6,6 @@ Files included:
 - train.py          (trains the bot once)
 - chat.py           (the terminal chat client - main program)
 - README.md         (instructions)
-- manifest.txt      (this file)
 
 How to run:
 1. python train.py
