@@ -1,4 +1,4 @@
-# ChatterBot Terminal Client - Assignment Submission
+# ChatterBot Terminal Client
 - Student: Sudhanshu Shekhar Dash
 - Date: March 2026
 
