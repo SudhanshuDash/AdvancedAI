@@ -1,1 +1,15 @@
-# AdvancedAI
+# ChatterBot Terminal Client - Assignment Submission
+Student: Sudhanshu Shekhar Dash
+Date: March 2026
+
+Files included:
+- train.py          (trains the bot once)
+- chat.py           (the terminal chat client - main program)
+- README.md         (instructions)
+- manifest.txt      (this file)
+
+How to run:
+1. python train.py
+2. python chat.py
+
+This matches the assignment requirements.
