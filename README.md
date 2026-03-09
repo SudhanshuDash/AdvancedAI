@@ -1,6 +1,6 @@
 # ChatterBot Terminal Client - Assignment Submission
-Student: Sudhanshu Shekhar Dash
-Date: March 2026
+- Student: Sudhanshu Shekhar Dash
+- Date: March 2026
 
 Files included:
 - train.py          (trains the bot once)
